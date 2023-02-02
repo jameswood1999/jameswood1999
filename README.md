@@ -1,7 +1,6 @@
 - 👋 Hi, I’m James!
-- 👀 I’m interested in using statistics to discover insights in data.
 - 🌱 I’m currently learning about data engineering.
-- 📫 How to reach me - email
+- 📫 How to reach me - jameswood0099@gmail.com
 
 <!---
 jameswood1999/jameswood1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
